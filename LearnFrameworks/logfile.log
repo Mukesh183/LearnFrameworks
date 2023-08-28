@@ -1,0 +1,4 @@
+2023-08-13 20:04:12,261 INFO  [XMLConfiguratorExamples] This is info message 
+2023-08-13 20:04:12,263 WARN  [XMLConfiguratorExamples] This is warn message 
+2023-08-13 20:04:12,263 ERROR [XMLConfiguratorExamples] This is error message 
+2023-08-13 20:04:12,264 FATAL [XMLConfiguratorExamples] This is fatal message 
